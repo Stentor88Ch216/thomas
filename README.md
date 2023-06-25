@@ -1,2 +1,3 @@
-# thomas
-About me
+# Thomas Douche
+Hi there 👋
+
